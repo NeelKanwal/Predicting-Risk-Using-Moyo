@@ -1,6 +1,3 @@
-# Author: Neel Kanwal, neel.kanwal0@gmail.com
-# Function to load data from mat files and generate plots for visualization
-
 import matplotlib.pyplot as plt
 import numpy as np
 import os
