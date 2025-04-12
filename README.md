@@ -21,6 +21,9 @@ Use requirement.txt for exact versions.
 ### Results
 ![image](https://github.com/user-attachments/assets/5abfb851-9512-4bc0-b8b8-6657764ca869)
 
+Model weights:
+Model weights used in the paper are available at: https://drive.google.com/drive/folders/1zYHzgeG6IsYNvQW-QHVdnj--9oet4gWi?usp=sharing
+
 
 ## Citing
 If you use or find this code repository useful, consider citing it as follows:
