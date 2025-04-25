@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/041fedb4-cfd1-4ca9-b40d-5c1f629436a5)# A-Self-supervised-Transformer-Approach-for-Fetal-Heart-Rate-Inpainting-and-Forecasting
+## A-Self-supervised-Transformer-Approach-for-Fetal-Heart-Rate-Inpainting-and-Forecasting
 
 This repository is the official Pytorch implementation for AI-powered inpainting and forecasting for fetal heart rate signals: 
 
