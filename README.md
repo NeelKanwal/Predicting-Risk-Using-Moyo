@@ -1,4 +1,4 @@
-# A-Self-supervised-Transformer-Approach-for-Fetal-Heart-Rate-Inpainting-and-Forecasting
+![image](https://github.com/user-attachments/assets/041fedb4-cfd1-4ca9-b40d-5c1f629436a5)# A-Self-supervised-Transformer-Approach-for-Fetal-Heart-Rate-Inpainting-and-Forecasting
 
 This repository is the official Pytorch implementation for AI-powered inpainting and forecasting for fetal heart rate signals: 
 
@@ -21,7 +21,8 @@ Fetal heart rate (FHR) monitoring is crucial for evaluating fetal well-being dur
 Use requirement.txt for exact versions. 
 
 ### Results
-![image](https://github.com/user-attachments/assets/5abfb851-9512-4bc0-b8b8-6657764ca869)
+![image](https://github.com/user-attachments/assets/c474fdda-7e96-453d-940e-8156cd2a7191)
+
 
 Model weights:
 Model weights used in the paper are available at: https://drive.google.com/drive/folders/1zYHzgeG6IsYNvQW-QHVdnj--9oet4gWi?usp=sharing
